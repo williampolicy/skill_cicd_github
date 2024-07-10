@@ -5,3 +5,4 @@ V.0.4 - get API floder POST https://www.pythonanywhere.com/api/v0/user/choosingl
 V.0.5 - add .gitignore and ignore .key  ©KANG - 2024-07-09  
 V.0.6 - pip freeze > requirements.txt  ©KANG - 2024-07-09  
 V.0.7 - Update GitHub Actions to skip tests temporarily  ©KANG - 2024-07-09  
+V.0.8 - pytest -s   ©KANG - 2024-07-10  
